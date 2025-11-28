@@ -2,7 +2,7 @@
 
 **Computer Science & Engineering Student (AI/ML Enthusiast)**
 
-I'm a CSE student with a passion for exploring new technologies and building creative solutions. Outside academics, I'm a football freak, an amateur esports player streaming as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and a movie nerd who loves analyzing films.
+CSE student at BRAC University, passionate about exploring new technologies and developing creative solutions. Besides, I’m deeply into football, an amateur e-sports player streaming as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and a movie nerd who loves analyzing and discussing films.
 
 <p align="left">
   <a href="https://twitch.tv/shoumixzz">
