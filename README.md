@@ -5,8 +5,7 @@
 I'm a CSE student with a passion for exploring new technologies and building creative solutions. Outside academics, I'm a football freak, an amateur esports player streaming as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and a movie nerd who loves analyzing films.
 
 <p align="left">
-  <a href="https://discord.com/users/sharkymiky">
-    <img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <img alt="sharkymiky" title="sharkymiky" src="https://custom-icon-badges.demolab.com/badge/-sharkymiky-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="https://twitch.tv/shoumixzz">
     <img alt="Twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://instagram.com/shakibshadmanshoumik">
