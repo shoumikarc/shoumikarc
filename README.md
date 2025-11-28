@@ -7,7 +7,7 @@ I'm a CSE student with a passion for exploring new technologies and building cre
 <p align="left">
   <a href="https://twitch.tv/shoumixzz">
     <img alt="Twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://youtube.com/ShoumixZz">
+  <a href="https://www.youtube.com/@shoumixzz17">
     <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://instagram.com/shakibshadmanshoumik">
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
