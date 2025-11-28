@@ -34,7 +34,5 @@ I'm a CSE student with a passion for exploring new technologies and building cre
 <br clear="left"/>
 
 #
-### 🎮 Contribution Graph
-
 ![Pacman](https://raw.githubusercontent.com/shoumikarc/shoumikarc/output/pacman-contribution-graph.svg)
 #
