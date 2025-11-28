@@ -5,15 +5,16 @@
 I'm a CSE student with a passion for exploring new technologies and building creative solutions. Outside academics, I'm a football freak, an amateur esports player streaming as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and a movie nerd who loves analyzing films.
 
 <p align="left">
-  <img alt="sharkymiky" title="sharkymiky" src="https://custom-icon-badges.demolab.com/badge/-sharkymiky-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="https://twitch.tv/shoumixzz">
     <img alt="Twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://youtube.com/ShoumixZz">
+    <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://instagram.com/shakibshadmanshoumik">
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://facebook.com/shoumik.master">
     <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <img alt="sharkymiky" title="sharkymiky" src="https://custom-icon-badges.demolab.com/badge/-sharkymiky-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
-
 <br>
 
 ## ⚙️ Languages and Tools
