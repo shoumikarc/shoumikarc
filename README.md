@@ -32,7 +32,3 @@ CSE student at BRAC University, passionate about exploring new technologies and 
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
 <br clear="left"/>
-
-#
-![Pacman](https://raw.githubusercontent.com/shoumikarc/shoumikarc/output/pacman-contribution-graph.svg)
-#
