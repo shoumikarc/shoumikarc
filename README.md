@@ -13,8 +13,6 @@ I stream as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**
     <img alt="Instagram" title="Instagram" height="40" width="40" src="https://cdn.simpleicons.org/instagram/000000"/></a>
   <a href="https://facebook.com/shoumik.master">
     <img alt="Facebook" title="Facebook" height="40" width="40" src="https://cdn.simpleicons.org/facebook/000000"/></a>
-  <a href="https://discord.com/users/sharkymiky">
-    <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord/000000"/></a>
 </p>
 <br>
 
