@@ -1,23 +1,22 @@
 # 🦉 Shakib Shadman Shoumik
-
-**Computer Science & Engineering Student (AI/ML Enthusiast)**
-
-CSE student at BRAC University, passionate about exploring new technologies and developing creative solutions. Besides, I’m deeply into football, an amateur e-sports player streaming as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and a movie nerd who loves analyzing and discussing films.
+**CSE Student**
+Focused on AI/ML. Enjoy football, competitive gaming I stream as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and movies.
 
 <p align="left">
   <a href="https://twitch.tv/shoumixzz">
-    <img alt="Twitch" title="Twitch" src="https://custom-icon-badges.demolab.com/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+    <img alt="Twitch" title="Twitch" height="40" width="40" src="https://cdn.simpleicons.org/twitch/000000"/></a>
   <a href="https://www.youtube.com/@shoumixzz17">
-    <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <img alt="YouTube" title="YouTube" height="40" width="40" src="https://cdn.simpleicons.org/youtube/000000"/></a>
   <a href="https://instagram.com/shakibshadmanshoumik">
-    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <img alt="Instagram" title="Instagram" height="40" width="40" src="https://cdn.simpleicons.org/instagram/000000"/></a>
   <a href="https://facebook.com/shoumik.master">
-    <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <img alt="sharkymiky" title="sharkymiky" src="https://custom-icon-badges.demolab.com/badge/-sharkymiky-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Facebook" title="Facebook" height="40" width="40" src="https://cdn.simpleicons.org/facebook/000000"/></a>
+  <a href="https://discord.com/users/sharkymiky">
+    <img alt="Discord" title="Discord" height="40" width="40" src="https://cdn.simpleicons.org/discord/000000"/></a>
 </p>
 <br>
 
-## ⚙️ Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
