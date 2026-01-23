@@ -1,7 +1,8 @@
 # 🦉 Shakib Shadman Shoumik
 **CSE Student**
 
-Focused on AI/ML. Enjoy football, competitive gaming I stream as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**, and movies.
+Focused on AI/ML. Enjoy football, competitive gaming, and movies.
+I stream as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**
 
 <p align="left">
   <a href="https://twitch.tv/shoumixzz">
