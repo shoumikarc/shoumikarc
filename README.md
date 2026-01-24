@@ -1,4 +1,3 @@
-# 🦉 Shakib Shadman Shoumik
 **CSE Student**
 
 Focused on AI/ML. Enjoy football, competitive gaming, and movies.
