@@ -1,6 +1,6 @@
 **CSE Student**
 
-Focused on AI/ML. Enjoy football, competitive gaming, and movies.
+AI/ML researcher. Enjoy football, competitive gaming, and movies.
 I stream as **[ShoumixZz](https://www.twitch.tv/shoumixzz)**
 
 <a href="https://twitch.tv/shoumixzz"><img align="left" alt="Twitch" height="40" width="40" style="padding-right:10px;background:none;" src="https://cdn.simpleicons.org/twitch/000000"/></a><a href="https://www.youtube.com/@shoumixzz17"><img align="left" alt="YouTube" height="40" width="40" style="padding-right:10px;background:none;" src="https://cdn.simpleicons.org/youtube/000000"/></a><a href="https://instagram.com/shakibshadmanshoumik"><img align="left" alt="Instagram" height="40" width="40" style="padding-right:10px;background:none;" src="https://cdn.simpleicons.org/instagram/000000"/></a><a href="https://facebook.com/shoumik.master"><img align="left" alt="Facebook" height="40" width="40" style="padding-right:10px;background:none;" src="https://cdn.simpleicons.org/facebook/000000"/></a><a href="https://linkedin.com/in/shakib-shadman-shoumik"><img align="left" alt="LinkedIn" height="40" width="40" style="padding-right:10px;background:none;" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg"/></a>
